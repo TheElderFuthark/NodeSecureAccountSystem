@@ -1,0 +1,32 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    background-color: cadetblue;
+    color: white;
+    font-size: 12pt;
+}
+
+
+#AppHeader {
+    position: sticky;
+    width: 100%;
+    height: 15%;
+    background-color: darkblue;
+    font-size: 20pt;
+}
+
+
+#AppLoginForm {
+    position: relative;
+    width: 75%;
+    height: 45%;
+    background-color: skyblue;
+    font-size: 14pt;
+}
+
+
+#AppFooter {
+    width: 100%;
+    height: 5%;
+    font-size: 8pt;
+}
